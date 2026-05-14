@@ -38,8 +38,7 @@ MainActivity.kt → Entry point
 
 ### Clone the Repository
 
-git clone [https://github.com/malikarshid01430-byte/MadhuMarga.git](https://github.com/malikarshid01430-byte/MadhuMarga.git)
-
+git clone [https://github.com/tejaswiniaaradhya1014-collab/gramakhata/edit/main/README.md]
 ---
 
 ### Or Download ZIP
