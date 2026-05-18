@@ -95,7 +95,7 @@ MIT License
 
 ## 👨‍💻 Author
 
-Developed by Arshid Ahmad Malik
+Developed by Tejaswini M C
 
 ---
 
